@@ -1,0 +1,675 @@
+{
+  "allocations": [{
+      "id": 1,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 2,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 3,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "22-12-2019"
+    },
+    {
+      "id": 5,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 7,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 8,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 9,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 10,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 11,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 12,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 13,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    }, {
+      "id": 14,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    }, {
+      "id": 15,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 16,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 17,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "22-12-2019"
+    },
+    {
+      "id": 18,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 19,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 20,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 21,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 22,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 23,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 24,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 25,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    }, {
+      "id": 26,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    },
+    {
+      "id": 27,
+      "campus": "St Lucia",
+      "building": "Duhig North",
+      "category": "library",
+      "level": "8",
+      "roomNumber": "888",
+      "seatNumber": "999",
+      "name": "Mike",
+      "email": "888888@qq.com",
+      "project": "App",
+      "supervisor": "MJ",
+      "role": "Singer",
+      "starDate": "10-1-2019",
+      "endDate": "12-12-2019"
+    }
+  ],
+  "allocationColumns": [{
+      "title": "Id",
+      "field": "id",
+      "type": "numeric"
+    },
+    {
+      "title": "Campus",
+      "field": "campus"
+    },
+    {
+      "title": "Building",
+      "field": "building"
+    },
+    {
+      "title": "Category",
+      "field": "category"
+    },
+    {
+      "title": "Level",
+      "field": "level"
+    },
+    {
+      "title": "RoomNumber",
+      "field": "roomNumber"
+    },
+    {
+      "title": "SeatNumber",
+      "field": "seatNumber"
+    },
+    {
+      "title": "Name",
+      "field": "name"
+    },
+    {
+      "title": "Email",
+      "field": "email"
+    },
+    {
+      "title": "Project",
+      "field": "project"
+    },
+    {
+      "title": "Supervisor",
+      "field": "supervisor"
+    },
+    {
+      "title": "Role",
+      "field": "role"
+    },
+    {
+      "title": "StarDate",
+      "field": "starDate"
+    },
+    {
+      "title": "EndDate",
+      "field": "endDate"
+    }
+  ],
+  "staffColumns": [{
+      "title": "Id",
+      "field": "id"
+    },
+    {
+      "title": "Name",
+      "field": "name"
+    },
+    {
+      "title": "Email",
+      "field": "email"
+    },
+    {
+      "title": "Project",
+      "field": "project"
+    },
+    {
+      "title": "Supervisor",
+      "field": "supervisor"
+    },
+    {
+      "title": "Role",
+      "field": "role"
+    }
+  ],
+  "staff": [{
+      "id": 3,
+      "name": "James",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 4,
+      "name": "Jane",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 5,
+      "name": "Steven",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 6,
+      "name": "carry",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 7,
+      "name": "sen",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 8,
+      "name": "AARON",
+      "email": "ACH@HSAHAH",
+      "project": "MINE",
+      "supervisor": "ME",
+      "role": "WORK"
+    },
+    {
+      "id": 9,
+      "name": "James",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 10,
+      "name": "Jane",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 11,
+      "name": "Steven",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 12,
+      "name": "carry",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 13,
+      "name": "sen",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 14,
+      "name": "AARON",
+      "email": "ACH@HSAHAH",
+      "project": "MINE",
+      "supervisor": "ME",
+      "role": "WORK"
+    },
+    {
+      "id": 15,
+      "name": "James",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 16,
+      "name": "Jane",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 17,
+      "name": "Steven",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 18,
+      "name": "carry",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 19,
+      "name": "sen",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 20,
+      "name": "AARON",
+      "email": "ACH@HSAHAH",
+      "project": "MINE",
+      "supervisor": "ME",
+      "role": "WORK"
+    }, {
+      "id": 21,
+      "name": "James",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 22,
+      "name": "Jane",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 23,
+      "name": "Steven",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 24,
+      "name": "carry",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 25,
+      "name": "sen",
+      "email": "88888@qq.com",
+      "project": "App",
+      "supervisor": "Bruce",
+      "role": "Phd"
+    },
+    {
+      "id": 26,
+      "name": "AARON",
+      "email": "ACH@HSAHAH",
+      "project": "MINE",
+      "supervisor": "ME",
+      "role": "WORK"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "data": {
+        "columnsList": [{
+                "title": "Campus",
+                "field": "campus"
+            },
+            {
+                "title": "Building",
+                "field": "building"
+            },
+            {
+                "title": "Category",
+                "field": "category"
+            },
+            {
+                "title": "Level",
+                "field": "level"
+            }, {
+                "title": "RoomNumber",
+                "field": "roomNumber"
+            }, {
+                "title": "SeatNumber",
+                "field": "seatNumber"
+            }, {
+                "title": "Name",
+                "field": "name"
+            }, {
+                "title": "Email",
+                "field": "email"
+            }, {
+                "title": "Project",
+                "field": "project"
+            }, {
+                "title": "Supervisor",
+                "field": "supervisor"
+            }, {
+                "title": "Role",
+                "field": "role"
+            }, {
+                "title": "PtorNot",
+                "field": "ptorNot"
+            }, {
+                "title": "StarDate",
+                "field": "starDate"
+            }, {
+                "title": "EndDate",
+                "field": "endDate"
+            }
+
+        ]
+    }
+}

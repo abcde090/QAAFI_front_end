@@ -1,0 +1,5 @@
+export const CHANGE_COLUMNS_DATA = 'allocationReport/change_columns_data'
+export const CHANGE_ALLOCATIONS_DATA = 'allocationReport/change_allocations_data'
+export const ADD_ALLOCATIONS_DATA = 'allocationReport/add_allocations_data'
+export const DELETE_ALLOCATIONS_DATA = 'allocationReport/delete_allocations_data'
+export const UPDATE_ALLOCATIONS_DATA = 'allocationReport/update_allocations_data'

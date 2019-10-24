@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "data": {
+        "columnsList": [{
+                "title": "Name",
+                "field": "name"
+            },
+            {
+                "title": "Email",
+                "field": "email"
+            },
+            {
+                "title": "Project",
+                "field": "project"
+            },
+            {
+                "title": "Supervisor",
+                "field": "supervisor"
+            }, {
+                "title": "Role",
+                "field": "role"
+            }, {
+                "title": "PtorNot",
+                "field": "ptorNot"
+            }
+        ]
+    }
+}
